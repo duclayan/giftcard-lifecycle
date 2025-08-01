@@ -1,0 +1,29 @@
+[
+  {
+    "DeviceID": 301,
+    "UserID": 1,
+    "IPAddress": "192.168.1.10",
+    "DeviceFingerprint": "Chrome_Windows_10_plugins_3",
+    "OperatingSystem": "Windows 10",
+    "ScreenResolution": "1920x1080",
+    "BrowserDetails": "Chrome 95.0"
+  },
+  {
+    "DeviceID": 302,
+    "UserID": 2,
+    "IPAddress": "10.0.0.5",
+    "DeviceFingerprint": "Firefox_Linux_plugins_5",
+    "OperatingSystem": "Linux",
+    "ScreenResolution": "1366x768",
+    "BrowserDetails": "Firefox 89.0"
+  },
+  {
+    "DeviceID": 303,
+    "UserID": 3,
+    "IPAddress": "203.0.113.1",
+    "DeviceFingerprint": "Safari_macOS_plugins_2",
+    "OperatingSystem": "macOS",
+    "ScreenResolution": "2560x1440",
+    "BrowserDetails": "Safari 14.0"
+  }
+]

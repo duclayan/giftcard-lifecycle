@@ -1,0 +1,35 @@
+[
+  {
+    "UserID": 1,
+    "UserType": "B2C",
+    "Name": "John Doe",
+    "Email": "john@example.com",
+    "UserAccount": "john_doe_01",
+    "MobileAppAccount": "john_mobile_01",
+    "PhoneNumber": "555-1234",
+    "DeliveryAddress": "123 Main St, New York, NY",
+    "DateOfBirth": "1990-01-01"
+  },
+  {
+    "UserID": 2,
+    "UserType": "B2B",
+    "Name": "Jane Smith",
+    "Email": "jane@company.com",
+    "UserAccount": "jane_smith_02",
+    "MobileAppAccount": "jane_mobile_02",
+    "PhoneNumber": "555-5678",
+    "DeliveryAddress": "456 Market St, Los Angeles, CA",
+    "DateOfBirth": "1985-05-15"
+  },
+  {
+    "UserID": 3,
+    "UserType": "Athlete",
+    "Name": "Mike Chan",
+    "Email": "mike@athlete.com",
+    "UserAccount": "mike_chan_03",
+    "MobileAppAccount": "mike_mobile_03",
+    "PhoneNumber": "555-9012",
+    "DeliveryAddress": "789 Sports Ave, Chicago, IL",
+    "DateOfBirth": "1995-09-09"
+  }
+]

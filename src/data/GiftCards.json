@@ -1,0 +1,22 @@
+[
+  {"GiftCardID": 1, "GiftCardNumber": "1000-0000-0001", "DateCreated": "2025-07-31T09:00:00", "PurchaseChannel": "Online", "IPAddress": "192.168.1.1", "GeoLocation": "New York, USA", "Status": "Active", "Balance": 100.00},
+  {"GiftCardID": 2, "GiftCardNumber": "1000-0000-0002", "DateCreated": "2025-07-31T09:05:00", "PurchaseChannel": "In-Store", "IPAddress": "192.168.1.2", "GeoLocation": "Los Angeles, USA", "Status": "Redeemed", "Balance": 0.00},
+  {"GiftCardID": 3, "GiftCardNumber": "1000-0000-0003", "DateCreated": "2025-07-31T09:10:00", "PurchaseChannel": "Retailer", "IPAddress": "192.168.1.3", "GeoLocation": "Chicago, USA", "Status": "Active", "Balance": 50.00},
+  {"GiftCardID": 4, "GiftCardNumber": "1000-0000-0004", "DateCreated": "2025-07-31T09:15:00", "PurchaseChannel": "Mobile App", "IPAddress": "192.168.1.4", "GeoLocation": "Houston, USA", "Status": "Active", "Balance": 75.00},
+  {"GiftCardID": 5, "GiftCardNumber": "1000-0000-0005", "DateCreated": "2025-07-31T09:20:00", "PurchaseChannel": "Online", "IPAddress": "192.168.1.5", "GeoLocation": "Phoenix, USA", "Status": "Expired", "Balance": 0.00},
+  {"GiftCardID": 6, "GiftCardNumber": "1000-0000-0006", "DateCreated": "2025-07-31T09:25:00", "PurchaseChannel": "In-Store", "IPAddress": "192.168.1.6", "GeoLocation": "Philadelphia, USA", "Status": "Active", "Balance": 120.00},
+  {"GiftCardID": 7, "GiftCardNumber": "1000-0000-0007", "DateCreated": "2025-07-31T09:30:00", "PurchaseChannel": "Retailer", "IPAddress": "192.168.1.7", "GeoLocation": "San Antonio, USA", "Status": "Cancelled", "Balance": 0.00},
+  {"GiftCardID": 8, "GiftCardNumber": "1000-0000-0008", "DateCreated": "2025-07-31T09:35:00", "PurchaseChannel": "Mobile App", "IPAddress": "192.168.1.8", "GeoLocation": "San Diego, USA", "Status": "Active", "Balance": 80.00},
+  {"GiftCardID": 9, "GiftCardNumber": "1000-0000-0009", "DateCreated": "2025-07-31T09:40:00", "PurchaseChannel": "Online", "IPAddress": "192.168.1.9", "GeoLocation": "Dallas, USA", "Status": "Active", "Balance": 60.00},
+  {"GiftCardID": 10, "GiftCardNumber": "1000-0000-0010", "DateCreated": "2025-07-31T09:45:00", "PurchaseChannel": "In-Store", "IPAddress": "192.168.1.10", "GeoLocation": "San Jose, USA", "Status": "Redeemed", "Balance": 0.00},
+  {"GiftCardID": 11, "GiftCardNumber": "1000-0000-0011", "DateCreated": "2025-07-31T09:50:00", "PurchaseChannel": "Retailer", "IPAddress": "192.168.1.11", "GeoLocation": "Austin, USA", "Status": "Active", "Balance": 110.00},
+  {"GiftCardID": 12, "GiftCardNumber": "1000-0000-0012", "DateCreated": "2025-07-31T09:55:00", "PurchaseChannel": "Mobile App", "IPAddress": "192.168.1.12", "GeoLocation": "Jacksonville, USA", "Status": "Active", "Balance": 90.00},
+  {"GiftCardID": 13, "GiftCardNumber": "1000-0000-0013", "DateCreated": "2025-07-31T10:00:00", "PurchaseChannel": "Online", "IPAddress": "192.168.1.13", "GeoLocation": "Fort Worth, USA", "Status": "Expired", "Balance": 0.00},
+  {"GiftCardID": 14, "GiftCardNumber": "1000-0000-0014", "DateCreated": "2025-07-31T10:05:00", "PurchaseChannel": "In-Store", "IPAddress": "192.168.1.14", "GeoLocation": "Columbus, USA", "Status": "Active", "Balance": 130.00},
+  {"GiftCardID": 15, "GiftCardNumber": "1000-0000-0015", "DateCreated": "2025-07-31T10:10:00", "PurchaseChannel": "Retailer", "IPAddress": "192.168.1.15", "GeoLocation": "Charlotte, USA", "Status": "Active", "Balance": 140.00},
+  {"GiftCardID": 16, "GiftCardNumber": "1000-0000-0016", "DateCreated": "2025-07-31T10:15:00", "PurchaseChannel": "Mobile App", "IPAddress": "192.168.1.16", "GeoLocation": "San Francisco, USA", "Status": "Cancelled", "Balance": 0.00},
+  {"GiftCardID": 17, "GiftCardNumber": "1000-0000-0017", "DateCreated": "2025-07-31T10:20:00", "PurchaseChannel": "Online", "IPAddress": "192.168.1.17", "GeoLocation": "Indianapolis, USA", "Status": "Active", "Balance": 150.00},
+  {"GiftCardID": 18, "GiftCardNumber": "1000-0000-0018", "DateCreated": "2025-07-31T10:25:00", "PurchaseChannel": "In-Store", "IPAddress": "192.168.1.18", "GeoLocation": "Seattle, USA", "Status": "Active", "Balance": 160.00},
+  {"GiftCardID": 19, "GiftCardNumber": "1000-0000-0019", "DateCreated": "2025-07-31T10:30:00", "PurchaseChannel": "Retailer", "IPAddress": "192.168.1.19", "GeoLocation": "Denver, USA", "Status": "Active", "Balance": 170.00},
+  {"GiftCardID": 20, "GiftCardNumber": "1000-0000-0020", "DateCreated": "2025-07-31T10:35:00", "PurchaseChannel": "Mobile App", "IPAddress": "192.168.1.20", "GeoLocation": "Washington, USA", "Status": "Active", "Balance": 180.00}
+]

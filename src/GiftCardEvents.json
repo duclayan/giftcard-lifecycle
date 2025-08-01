@@ -1,0 +1,42 @@
+[
+  {
+    "EventID": 101,
+    "GiftCardID": 1,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:00:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "New York, USA",
+    "Amount": 100.00
+  },
+  {
+    "EventID": 102,
+    "GiftCardID": 1,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:01:00",
+    "ErrorCode": null,
+    "IPAddress": "10.0.0.5",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 50.00
+  },
+  {
+    "EventID": 103,
+    "GiftCardID": 2,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": null,
+    "IPAddress": "10.0.0.5",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 75.00
+  },
+  {
+    "EventID": 104,
+    "GiftCardID": 3,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:04:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "203.0.113.1",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 0.00
+  }
+]

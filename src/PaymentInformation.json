@@ -1,0 +1,26 @@
+[
+  {
+    "PaymentID": 201,
+    "UserID": 1,
+    "PaymentMethod": "CreditCard",
+    "PaymentDate": "2025-07-31T10:00:00",
+    "Amount": 100.00,
+    "CreditReport": "Good credit, no issues."
+  },
+  {
+    "PaymentID": 202,
+    "UserID": 2,
+    "PaymentMethod": "PayPal",
+    "PaymentDate": "2025-07-31T10:02:00",
+    "Amount": 75.00,
+    "CreditReport": "Verified PayPal account."
+  },
+  {
+    "PaymentID": 203,
+    "UserID": 3,
+    "PaymentMethod": "DebitCard",
+    "PaymentDate": "2025-07-31T10:04:00",
+    "Amount": 50.00,
+    "CreditReport": "No credit history."
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "EventID": 1,
+    "GiftCardID": 1,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:05:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 186
+  },
+  {
+    "EventID": 2,
+    "GiftCardID": 1,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:12:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 61.29
+  },
+  {
+    "EventID": 3,
+    "GiftCardID": 1,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:14:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 4,
+    "GiftCardID": 1,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:19:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 5,
+    "GiftCardID": 1,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:23:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 6,
+    "GiftCardID": 1,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:32:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 7,
+    "GiftCardID": 1,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:41:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 124.71
+  },
+  {
+    "EventID": 8,
+    "GiftCardID": 1,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:45:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.1",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 9,
+    "GiftCardID": 2,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:10:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 10,
+    "GiftCardID": 2,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:16:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 163
+  },
+  {
+    "EventID": 11,
+    "GiftCardID": 2,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:24:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 163
+  },
+  {
+    "EventID": 12,
+    "GiftCardID": 2,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:31:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 158.63
+  },
+  {
+    "EventID": 13,
+    "GiftCardID": 2,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:32:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 4.37
+  },
+  {
+    "EventID": 14,
+    "GiftCardID": 2,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:40:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 5.92
+  },
+  {
+    "EventID": 15,
+    "GiftCardID": 2,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:49:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 16,
+    "GiftCardID": 2,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:56:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 17,
+    "GiftCardID": 2,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 4.09
+  },
+  {
+    "EventID": 18,
+    "GiftCardID": 2,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:04:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": -5.64
+  },
+  {
+    "EventID": 19,
+    "GiftCardID": 2,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:12:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.2",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": -5.64
+  },
+  {
+    "EventID": 20,
+    "GiftCardID": 3,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:15:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 21,
+    "GiftCardID": 3,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:18:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 22,
+    "GiftCardID": 3,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:22:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 109
+  },
+  {
+    "EventID": 23,
+    "GiftCardID": 3,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:26:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Denver, USA",
+    "Amount": 109
+  },
+  {
+    "EventID": 24,
+    "GiftCardID": 3,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:29:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 42.08
+  },
+  {
+    "EventID": 25,
+    "GiftCardID": 3,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:33:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 14.53
+  },
+  {
+    "EventID": 26,
+    "GiftCardID": 3,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:35:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 27,
+    "GiftCardID": 3,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:44:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.3",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 28,
+    "GiftCardID": 4,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:20:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Austin, USA",
+    "Amount": 64
+  },
+  {
+    "EventID": 29,
+    "GiftCardID": 4,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:28:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 64
+  },
+  {
+    "EventID": 30,
+    "GiftCardID": 4,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:38:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 31,
+    "GiftCardID": 4,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:47:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 32,
+    "GiftCardID": 4,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Denver, USA",
+    "Amount": 64
+  },
+  {
+    "EventID": 33,
+    "GiftCardID": 4,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:59:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 64
+  },
+  {
+    "EventID": 34,
+    "GiftCardID": 4,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 33.0
+  },
+  {
+    "EventID": 35,
+    "GiftCardID": 4,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:11:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 25.03
+  },
+  {
+    "EventID": 36,
+    "GiftCardID": 4,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:15:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.4",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 37,
+    "GiftCardID": 5,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 38,
+    "GiftCardID": 5,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:28:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 39,
+    "GiftCardID": 5,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:29:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 40,
+    "GiftCardID": 5,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:35:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 41,
+    "GiftCardID": 5,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:41:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 42,
+    "GiftCardID": 5,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:47:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 43,
+    "GiftCardID": 5,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:55:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Houston, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 44,
+    "GiftCardID": 5,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:59:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 45,
+    "GiftCardID": 5,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:06:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 46,
+    "GiftCardID": 5,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:10:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.5",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 47,
+    "GiftCardID": 6,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 48,
+    "GiftCardID": 6,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:33:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 50
+  },
+  {
+    "EventID": 49,
+    "GiftCardID": 6,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:42:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Houston, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 50,
+    "GiftCardID": 6,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:50:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 51,
+    "GiftCardID": 6,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 50
+  },
+  {
+    "EventID": 52,
+    "GiftCardID": 6,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:56:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 50
+  },
+  {
+    "EventID": 53,
+    "GiftCardID": 6,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:00:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 54,
+    "GiftCardID": 6,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:06:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 55,
+    "GiftCardID": 6,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:16:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 56,
+    "GiftCardID": 6,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:20:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.6",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 57,
+    "GiftCardID": 7,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:35:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 58,
+    "GiftCardID": 7,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:37:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 94
+  },
+  {
+    "EventID": 59,
+    "GiftCardID": 7,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:43:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 61.5
+  },
+  {
+    "EventID": 60,
+    "GiftCardID": 7,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:48:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 61,
+    "GiftCardID": 7,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:56:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Austin, USA",
+    "Amount": 32.5
+  },
+  {
+    "EventID": 62,
+    "GiftCardID": 7,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:57:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 12.61
+  },
+  {
+    "EventID": 63,
+    "GiftCardID": 7,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:59:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 64,
+    "GiftCardID": 7,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 65,
+    "GiftCardID": 7,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:03:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 15.88
+  },
+  {
+    "EventID": 66,
+    "GiftCardID": 7,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:10:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "Austin, USA",
+    "Amount": 4.01
+  },
+  {
+    "EventID": 67,
+    "GiftCardID": 7,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:11:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.7",
+    "GeoLocation": "New York, USA",
+    "Amount": 5.88
+  },
+  {
+    "EventID": 68,
+    "GiftCardID": 8,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:40:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Washington, USA",
+    "Amount": 124
+  },
+  {
+    "EventID": 69,
+    "GiftCardID": 8,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T09:46:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 70,
+    "GiftCardID": 8,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T09:51:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 71,
+    "GiftCardID": 8,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:55:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 72,
+    "GiftCardID": 8,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:00:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 73,
+    "GiftCardID": 8,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 124
+  },
+  {
+    "EventID": 74,
+    "GiftCardID": 8,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:11:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 124
+  },
+  {
+    "EventID": 75,
+    "GiftCardID": 8,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:19:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 76,
+    "GiftCardID": 8,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:23:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 124
+  },
+  {
+    "EventID": 77,
+    "GiftCardID": 8,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Austin, USA",
+    "Amount": 124
+  },
+  {
+    "EventID": 78,
+    "GiftCardID": 8,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:26:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Austin, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 79,
+    "GiftCardID": 8,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:36:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.8",
+    "GeoLocation": "Houston, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 80,
+    "GiftCardID": 9,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:45:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Denver, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 81,
+    "GiftCardID": 9,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:54:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 82,
+    "GiftCardID": 9,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:58:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 83,
+    "GiftCardID": 9,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:59:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 84,
+    "GiftCardID": 9,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:06:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Denver, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 85,
+    "GiftCardID": 9,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:13:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 86,
+    "GiftCardID": 9,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:23:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 87,
+    "GiftCardID": 9,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "New York, USA",
+    "Amount": 115
+  },
+  {
+    "EventID": 88,
+    "GiftCardID": 9,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:40:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Washington, USA",
+    "Amount": 71.53
+  },
+  {
+    "EventID": 89,
+    "GiftCardID": 9,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:43:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 90,
+    "GiftCardID": 9,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:49:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.9",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 91,
+    "GiftCardID": 10,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T09:50:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 139.85
+  },
+  {
+    "EventID": 92,
+    "GiftCardID": 10,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T09:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Washington, USA",
+    "Amount": 23.15
+  },
+  {
+    "EventID": 93,
+    "GiftCardID": 10,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T09:59:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 94,
+    "GiftCardID": 10,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:09:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 95,
+    "GiftCardID": 10,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:12:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Denver, USA",
+    "Amount": 23.15
+  },
+  {
+    "EventID": 96,
+    "GiftCardID": 10,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:15:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Austin, USA",
+    "Amount": 23.15
+  },
+  {
+    "EventID": 97,
+    "GiftCardID": 10,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:22:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Denver, USA",
+    "Amount": 18.82
+  },
+  {
+    "EventID": 98,
+    "GiftCardID": 10,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:26:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.10",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 99,
+    "GiftCardID": 11,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T09:55:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 165
+  },
+  {
+    "EventID": 100,
+    "GiftCardID": 11,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:02:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 101,
+    "GiftCardID": 11,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:05:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 165
+  },
+  {
+    "EventID": 102,
+    "GiftCardID": 11,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:14:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 103,
+    "GiftCardID": 11,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:18:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 104,
+    "GiftCardID": 11,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Washington, USA",
+    "Amount": 165
+  },
+  {
+    "EventID": 105,
+    "GiftCardID": 11,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 57.52
+  },
+  {
+    "EventID": 106,
+    "GiftCardID": 11,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:39:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 107,
+    "GiftCardID": 11,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:41:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 108,
+    "GiftCardID": 11,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:47:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.11",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 109,
+    "GiftCardID": 12,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:00:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 110,
+    "GiftCardID": 12,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:03:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 111,
+    "GiftCardID": 12,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:13:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 183
+  },
+  {
+    "EventID": 112,
+    "GiftCardID": 12,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:14:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 183
+  },
+  {
+    "EventID": 113,
+    "GiftCardID": 12,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:22:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 114,
+    "GiftCardID": 12,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:24:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 115,
+    "GiftCardID": 12,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 116,
+    "GiftCardID": 12,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:36:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 116.22
+  },
+  {
+    "EventID": 117,
+    "GiftCardID": 12,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:38:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 118,
+    "GiftCardID": 12,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:48:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.12",
+    "GeoLocation": "Austin, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 119,
+    "GiftCardID": 13,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:05:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 120,
+    "GiftCardID": 13,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:06:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 98.49
+  },
+  {
+    "EventID": 121,
+    "GiftCardID": 13,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:16:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 16.78
+  },
+  {
+    "EventID": 122,
+    "GiftCardID": 13,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:20:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 10.73
+  },
+  {
+    "EventID": 123,
+    "GiftCardID": 13,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:24:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Houston, USA",
+    "Amount": 10.36
+  },
+  {
+    "EventID": 124,
+    "GiftCardID": 13,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Denver, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 125,
+    "GiftCardID": 13,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.37
+  },
+  {
+    "EventID": 126,
+    "GiftCardID": 13,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:38:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 127,
+    "GiftCardID": 13,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:43:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.37
+  },
+  {
+    "EventID": 128,
+    "GiftCardID": 13,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:44:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 0.37
+  },
+  {
+    "EventID": 129,
+    "GiftCardID": 13,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 130,
+    "GiftCardID": 13,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:53:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.13",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.37
+  },
+  {
+    "EventID": 131,
+    "GiftCardID": 14,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:10:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 132,
+    "GiftCardID": 14,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:11:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 133,
+    "GiftCardID": 14,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:15:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 173
+  },
+  {
+    "EventID": 134,
+    "GiftCardID": 14,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:20:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 110.79
+  },
+  {
+    "EventID": 135,
+    "GiftCardID": 14,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:22:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 136,
+    "GiftCardID": 14,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:31:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 137,
+    "GiftCardID": 14,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:33:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 62.21
+  },
+  {
+    "EventID": 138,
+    "GiftCardID": 14,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:38:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 62.21
+  },
+  {
+    "EventID": 139,
+    "GiftCardID": 14,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:45:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.14",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 62.21
+  },
+  {
+    "EventID": 140,
+    "GiftCardID": 15,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:15:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 141,
+    "GiftCardID": 15,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:18:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 142,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:23:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Austin, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 143,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "New York, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 144,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:37:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 145,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:44:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 146,
+    "GiftCardID": 15,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:54:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 147,
+    "GiftCardID": 15,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:59:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 148,
+    "GiftCardID": 15,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T11:02:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 149,
+    "GiftCardID": 15,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T11:06:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Denver, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 150,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T11:16:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "Washington, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 151,
+    "GiftCardID": 15,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T11:21:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.15",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 200
+  },
+  {
+    "EventID": 152,
+    "GiftCardID": 16,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:20:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 75
+  },
+  {
+    "EventID": 153,
+    "GiftCardID": 16,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 62.57
+  },
+  {
+    "EventID": 154,
+    "GiftCardID": 16,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:33:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 12.43
+  },
+  {
+    "EventID": 155,
+    "GiftCardID": 16,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:35:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Houston, USA",
+    "Amount": 12.43
+  },
+  {
+    "EventID": 156,
+    "GiftCardID": 16,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:38:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "New York, USA",
+    "Amount": 12.43
+  },
+  {
+    "EventID": 157,
+    "GiftCardID": 16,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:39:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 10.99
+  },
+  {
+    "EventID": 158,
+    "GiftCardID": 16,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:40:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 159,
+    "GiftCardID": 16,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:50:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 9.43
+  },
+  {
+    "EventID": 160,
+    "GiftCardID": 16,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:56:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "San Diego, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 161,
+    "GiftCardID": 16,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:57:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.16",
+    "GeoLocation": "Houston, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 162,
+    "GiftCardID": 17,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:25:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "Austin, USA",
+    "Amount": 182.15
+  },
+  {
+    "EventID": 163,
+    "GiftCardID": 17,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:29:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 17.85
+  },
+  {
+    "EventID": 164,
+    "GiftCardID": 17,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:31:00",
+    "ErrorCode": "CARD_NOT_FOUND",
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 165,
+    "GiftCardID": 17,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:41:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "New York, USA",
+    "Amount": 17.85
+  },
+  {
+    "EventID": 166,
+    "GiftCardID": 17,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:47:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 167,
+    "GiftCardID": 17,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:53:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 168,
+    "GiftCardID": 17,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T11:00:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "New York, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 169,
+    "GiftCardID": 17,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T11:03:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 170,
+    "GiftCardID": 17,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T11:05:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.17",
+    "GeoLocation": "Phoenix, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 171,
+    "GiftCardID": 18,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:30:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 69.44
+  },
+  {
+    "EventID": 172,
+    "GiftCardID": 18,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:35:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 78.56
+  },
+  {
+    "EventID": 173,
+    "GiftCardID": 18,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:40:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Chicago, USA",
+    "Amount": 78.56
+  },
+  {
+    "EventID": 174,
+    "GiftCardID": 18,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:41:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Indianapolis, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 175,
+    "GiftCardID": 18,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:49:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Jacksonville, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 176,
+    "GiftCardID": 18,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 78.56
+  },
+  {
+    "EventID": 177,
+    "GiftCardID": 18,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:57:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 178,
+    "GiftCardID": 18,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T11:07:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Austin, USA",
+    "Amount": 78.56
+  },
+  {
+    "EventID": 179,
+    "GiftCardID": 18,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T11:17:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 180,
+    "GiftCardID": 18,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T11:23:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Washington, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 181,
+    "GiftCardID": 18,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T11:30:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 182,
+    "GiftCardID": 18,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T11:36:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.18",
+    "GeoLocation": "Austin, USA",
+    "Amount": 78.56
+  },
+  {
+    "EventID": 183,
+    "GiftCardID": 19,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:35:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Fort Worth, USA",
+    "Amount": 20.62
+  },
+  {
+    "EventID": 184,
+    "GiftCardID": 19,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:42:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Washington, USA",
+    "Amount": 35.38
+  },
+  {
+    "EventID": 185,
+    "GiftCardID": 19,
+    "EventType": "BalanceInquiry",
+    "EventDate": "2025-07-31T10:43:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Los Angeles, USA",
+    "Amount": 35.38
+  },
+  {
+    "EventID": 186,
+    "GiftCardID": 19,
+    "EventType": "Redemption",
+    "EventDate": "2025-07-31T10:50:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Philadelphia, USA",
+    "Amount": 34.34
+  },
+  {
+    "EventID": 187,
+    "GiftCardID": 19,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:56:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 188,
+    "GiftCardID": 19,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:59:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 1.04
+  },
+  {
+    "EventID": 189,
+    "GiftCardID": 19,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T11:03:00",
+    "ErrorCode": "INVALID_PIN",
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 190,
+    "GiftCardID": 19,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T11:04:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 191,
+    "GiftCardID": 19,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T11:14:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Austin, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 192,
+    "GiftCardID": 19,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T11:22:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.19",
+    "GeoLocation": "Dallas, USA",
+    "Amount": 1.04
+  },
+  {
+    "EventID": 193,
+    "GiftCardID": 20,
+    "EventType": "RedemptionAttempt",
+    "EventDate": "2025-07-31T10:40:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "Columbus, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 194,
+    "GiftCardID": 20,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:48:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "San Jose, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 195,
+    "GiftCardID": 20,
+    "EventType": "Issuance",
+    "EventDate": "2025-07-31T10:52:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "Charlotte, USA",
+    "Amount": 136
+  },
+  {
+    "EventID": 196,
+    "GiftCardID": 20,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T10:54:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 197,
+    "GiftCardID": 20,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T10:58:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "San Antonio, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 198,
+    "GiftCardID": 20,
+    "EventType": "Expiration",
+    "EventDate": "2025-07-31T11:03:00",
+    "ErrorCode": "EXPIRED",
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 199,
+    "GiftCardID": 20,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T11:08:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "San Francisco, USA",
+    "Amount": 0.0
+  },
+  {
+    "EventID": 200,
+    "GiftCardID": 20,
+    "EventType": "Cancellation",
+    "EventDate": "2025-07-31T11:16:00",
+    "ErrorCode": null,
+    "IPAddress": "192.168.1.20",
+    "GeoLocation": "Seattle, USA",
+    "Amount": 0.0
+  }
+]
