@@ -36,6 +36,20 @@ A professional ReactJS dashboard for managing and analyzing gift card activity, 
 - Tooltips provide guidance for security analysis
 - Timeline shows all activity for selected cards
 
+## Deployment: Azure Static Web Apps
+
+To deploy this app to Azure Static Web Apps from GitHub:
+
+1. Push your code to a GitHub repository.
+2. In the Azure Portal, create a new Static Web App and connect it to your repo.
+3. Use these settings when prompted:
+   - **Build Preset:** `Create React App`
+   - **App location:** `/` (root)
+   - **Api location:** (leave blank)
+   - **Output location:** `build`
+4. The included `staticwebapp.config.yaml` ensures correct routing for React SPA.
+5. On push to your repo, Azure will build and deploy automatically.
+
 ## License
 MIT
 

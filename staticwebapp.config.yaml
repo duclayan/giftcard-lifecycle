@@ -1,0 +1,7 @@
+# Azure Static Web Apps Configuration
+
+# For React apps built with Create React App
+routes:
+  - route: /*
+    serve: /index.html
+    statusCode: 200
