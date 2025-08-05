@@ -2,6 +2,12 @@
 
 # For React apps built with Create React App
 routes:
+  - route: /static/*
+    serve: /static/index.html
+    statusCode: 200
   - route: /*
     serve: /index.html
     statusCode: 200
+
+mimeTypes:
+  ".json": "application/json"

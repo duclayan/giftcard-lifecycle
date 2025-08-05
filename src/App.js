@@ -1,3 +1,4 @@
+import MapView from './components/MapView';
 
 
 import React, { useState, useEffect } from 'react';
@@ -38,6 +39,29 @@ function App() {
   const [giftCardEvents, setGiftCardEvents] = useState([]);
   const [selectedCard, setSelectedCard] = useState(null);
   const [filteredCards, setFilteredCards] = useState([]);
+  // Azure Maps subscription key (should be in .env or config in real app)
+  const azureMapsKey = process.env.REACT_APP_AZURE_MAPS_KEY || '';
+
+  // Aggregate geoPoints for MapView: group cards by lat/lon
+  const geoPoints = React.useMemo(() => {
+    const map = new Map();
+    giftCards.forEach(card => {
+      // Parse GeoLocation as "lat,lon"
+      let lat = null, lon = null;
+      if (card.GeoLocation && card.GeoLocation.includes(',')) {
+        const [latStr, lonStr] = card.GeoLocation.split(',');
+        lat = parseFloat(latStr);
+        lon = parseFloat(lonStr);
+      }
+      if (typeof lat === 'number' && typeof lon === 'number' && !isNaN(lat) && !isNaN(lon)) {
+        const key = `${lat},${lon}`;
+        if (!map.has(key)) map.set(key, { lat, lon, cards: [] });
+        map.get(key).cards.push(card);
+      }
+    });
+    return Array.from(map.values());
+  }, [giftCards]);
+
 
   // Sorting state
   const [sortBy, setSortBy] = useState('giftcard');
@@ -128,6 +152,15 @@ function App() {
         </Toolbar>
       </AppBar>
       <Container maxWidth="lg" sx={{ mt: 6 }}>
+        {/* MapView for all gift card locations */}
+        <Box sx={{ mb: 4 }}>
+          <MapView
+            subscriptionKey={azureMapsKey}
+            geoPoints={geoPoints}
+            height={400}
+            selectedCard={selectedCard}
+          />
+        </Box>
         <Typography variant="h4" gutterBottom align="center" sx={{ mb: 2 }}>
           GiftCard LifeCycle Dashboard
         </Typography>
