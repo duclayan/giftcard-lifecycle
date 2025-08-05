@@ -13,6 +13,9 @@ const MapView = ({ subscriptionKey, geoPoints, height = 400, selectedCard, onPoi
   const markersRef = useRef([]); // Track markers
 
   useEffect(() => {
+
+    // Debug: Log the Azure Maps Key
+    console.log("Azure Maps Key:", process.env.REACT_APP_AZURE_MAPS_KEY);
     if (!mapRef.current || !subscriptionKey) return;
 
     if (!mapInstance.current) {
