@@ -207,7 +207,7 @@ const MapView = ({ subscriptionKey, geoPoints, height = 400, selectedCard, onPoi
         mapInstance.current = null;
       }
     };
-  }, [subscriptionKey, geoPoints, zoom, center]);
+  }, [subscriptionKey, geoPoints, zoom, center, onPointClick]);
 
   // Fullscreen style
   const mapStyle = fullscreen
